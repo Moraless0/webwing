@@ -1,0 +1,31 @@
+#appBp {
+height: 220px;
+width: 150px;
+border:10px solid gray;
+}
+#appBp form {
+    height: 100%;
+    width: 100%;
+    background-color:gray;
+}
+#appBp input[type=textfield] {
+    width: 100%;
+    height: 25%;
+    background-color: black;
+    color: lightgreen;
+}
+#appBp input[type=button]{
+    width: 20%;
+    height: 15%;
+    background-color: skyblue;
+}
+#appBp input[type=reset]{
+    width: 90%;
+    height: 15%;
+    background-color: red;
+} 
+#appBp input[value="="]{
+    width: 20%;
+    height: 15%;
+    background-color: green;
+} 
